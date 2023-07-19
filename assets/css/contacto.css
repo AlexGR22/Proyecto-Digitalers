@@ -46,13 +46,11 @@ input, textarea, select{
 #enviar:hover {
     background-color: #242423 ;
     color: #e8eddf ;
-    /* transform: scale(1.1) rotate(1deg) ; */
 }
 
 .principal__contacto{
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
 }
 
 .contacto__info{
